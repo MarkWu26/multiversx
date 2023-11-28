@@ -14,3 +14,6 @@ type 'cd nextjs-dapp-template'
 type 'npm install'
 type 'npm run dev'
 you can now access the front end through localhost:3000/
+
+#dont forget to setup your mongodb database 
+#change the mongo_url in .env file of the backend folder put your mongodb credentials
